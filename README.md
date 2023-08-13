@@ -14,7 +14,7 @@ CB34S is a 34 key column-staggered choc unibody keyboard that has wireless capab
 
 If you like to get a PCB to build your own CB34S you'll find the KiCad source files and a Gerber file [here](/PCB/).
 
-![CB34S picture pcb](/Images/PCB_Placeholder.jpg)
+![CB34S picture pcb](/Images/CB34S_PCB.jpg)
 ***
 
 ### BOM
