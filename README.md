@@ -38,7 +38,7 @@ CB34S runs on ZMK. To modify and compile your own keymap you can clone the dedic
 
 ***
 
-## OUTRO
+## CREDITS
 
 I've been on the lookout for a unibody keyboard for quite sometime but haven't found one that has all the features I was looking for:
 - Choc V1 spacing
