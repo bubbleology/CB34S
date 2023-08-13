@@ -1,6 +1,6 @@
 <h1 align="left">CB34S</h1>
 
-CB34S is a 34 key column-staggered choc unibody keyboard that features wireless capabilities with the Nice!Nano and supports a Nice!View display.
+CB34S is a 34 key column-staggered choc unibody keyboard that has wireless capabilities with the Nice!Nano and supports a Nice!View display.
 
 ***
 
